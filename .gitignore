@@ -1,0 +1,19 @@
+# PyCharm
+.idea/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment secrets
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
